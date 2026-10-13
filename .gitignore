@@ -1,0 +1,13 @@
+# Secrets (see .keys locally; never commit)
+.keys
+.env
+.envvar
+*.pem
+credentials.json
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/

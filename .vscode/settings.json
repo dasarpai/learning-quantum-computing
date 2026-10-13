@@ -1,0 +1,20 @@
+{
+  "cSpell.enabled": false,
+  "cSpell.diagnosticLevel": "Off",
+  "cSpell.checkLimit": 0,
+  "cSpell.languageSettings": [
+    {
+      "languageId": "*",
+      "enabled": false
+    }
+  ],
+  "cSpell.ignorePaths": ["**"],
+  "python.defaultInterpreterPath": "C:\\Users\\hari_\\miniconda31\\envs\\cwq\\python.exe",
+  "python.analysis.packageIndexDepths": [
+    {
+      "name": "qiskit",
+      "depth": 10,
+      "includeAllSymbols": true
+    }
+  ]
+}

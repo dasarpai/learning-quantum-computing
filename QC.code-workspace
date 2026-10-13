@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "name": "QC",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "cSpell.enabled": false,
+    "cSpell.diagnosticLevel": "Off",
+    "cSpell.checkLimit": 0,
+    "cSpell.languageSettings": [
+      {
+        "languageId": "*",
+        "enabled": false
+      }
+    ],
+    "cSpell.ignorePaths": ["**"]
+  }
+}
